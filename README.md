@@ -25,7 +25,7 @@
   <img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Postgre" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="pic" height="200" style="border-radius:50px;" src="https://github.com/GabrielVitorGL/GabrielVitorGL/blob/main/GIF_lofi.gif?raw=true">
+  <img align="right" alt="pic" height="200" style="border-radius:50px;" src="https://github.com/GabrielVitorGL/GabrielVitorGL/blob/main/GIF.png?raw=true">
 </div>
   
 ##
