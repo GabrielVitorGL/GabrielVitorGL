@@ -7,7 +7,7 @@
    * Python
    * Golang
    * HTML / CSS / JS
-   * Banco de dados
+   * PostgreSQL
 
 <br>
 
