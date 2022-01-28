@@ -25,7 +25,7 @@
   <img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Postgre" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/GabrielVitorGL/GabrielVitorGL/blob/main/GIF.gif?raw=true?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19f1535b-749b-4a8e-8640-d429f027cd3c/de04f5f-61a4ed30-0269-4b7d-bf90-85c046193478.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE5ZjE1MzViLTc0OWItNGE4ZS04NjQwLWQ0MjlmMDI3Y2QzY1wvZGUwNGY1Zi02MWE0ZWQzMC0wMjY5LTRiN2QtYmY5MC04NWMwNDYxOTM0NzguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CLEU3cu8m4v-1KBoYaUXJUKTuZI7WVWuNn1xo7uGUQY">
 </div>
   
 ##
