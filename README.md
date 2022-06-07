@@ -5,6 +5,7 @@
   🌱 Atualmente estou aprendendo:
    * C++
    * C#
+   * Java
    * Python
    * Golang
    * HTML / CSS / JS
