@@ -8,7 +8,8 @@
    * Java
    * Python
    * Golang
-   * HTML / CSS / JS
+   * HTML / CSS
+   * Javascript
    * Typescript
    * PostgreSQL
 
