@@ -9,6 +9,7 @@
    * Python
    * Golang
    * HTML / CSS / JS
+   * Typescript
    * PostgreSQL
 
 <br>
@@ -27,6 +28,7 @@
   <img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Postgre" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="right" alt="GIF" height="200" width="280" src="https://github.com/GabrielVitorGL/GabrielVitorGL/blob/main/GIF_v2.gif?raw=true">
 </div>
