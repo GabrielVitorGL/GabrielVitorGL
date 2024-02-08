@@ -47,7 +47,21 @@
  <a href="https://discordapp.com/users/232177678172684289/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "https://wa.me/5511910449191"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/GabrielVitorGL/GabrielVitorGL/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+  />
+</picture>
  
 </div>
 
