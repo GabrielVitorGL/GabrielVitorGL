@@ -11,7 +11,7 @@
    * HTML / CSS
    * Javascript
    * Typescript
-   * React
+   * Next.js / React
    * Bootstrap
    * Tailwind
    * PostgreSQL
