@@ -3,7 +3,7 @@
 <br>
 
   🌱 Atualmente estou aprendendo:
-   * C++
+   * C
    * C#
    * Java
    * Python
@@ -25,7 +25,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="C++" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C#" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Golang" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
