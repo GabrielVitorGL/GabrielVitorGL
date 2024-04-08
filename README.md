@@ -2,7 +2,7 @@
 
 <br>
 
-  ⚙️ Minha experiência:
+  ⚙️ Minhas experiências:
    * C 🔧
    * C# 👾
    * Java ♨️
