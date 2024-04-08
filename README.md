@@ -2,19 +2,19 @@
 
 <br>
 
-  🌱 Atualmente estou aprendendo:
-   * C
-   * C#
-   * Java
-   * Python
-   * Golang
-   * HTML / CSS
-   * Javascript
-   * Typescript
-   * Next.js / React
-   * Bootstrap
-   * Tailwind
-   * PostgreSQL
+  ⚙️ Minha experiência:
+   * C 🔧
+   * C# 👾
+   * Java ♨️
+   * Python 🐍
+   * Golang 💠
+   * HTML / CSS 🌐
+   * Javascript ☕ 
+   * Typescript 🔠
+   * Next.js / React ⚛️
+   * Bootstrap 📱
+   * Tailwind 🌬️
+   * PostgreSQL 🐘
 
 <br>
 
