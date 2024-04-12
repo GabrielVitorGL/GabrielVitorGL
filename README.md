@@ -14,6 +14,7 @@
    * Next.js / React ⚛️
    * Bootstrap 📱
    * Tailwind 🌬️
+   * MaterialUI 🧩
    * PostgreSQL 🐘
 
 <br>
