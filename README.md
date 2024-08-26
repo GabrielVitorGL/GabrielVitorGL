@@ -8,6 +8,7 @@
    * Java ♨️
    * Python 🐍
    * Golang 💠
+   * PHP 📜
    * HTML / CSS 🌐
    * Javascript ☕ 
    * Typescript 🔠
