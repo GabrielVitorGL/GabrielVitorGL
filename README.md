@@ -17,6 +17,9 @@
    * Tailwind 🌬️
    * MaterialUI 🧩
    * PostgreSQL 🐘
+   * SQL Server 🛢️
+   * My SQL 🐬
+
 
 <br>
 
