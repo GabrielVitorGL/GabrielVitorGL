@@ -3,6 +3,7 @@
 <br>
 
   ⚙️ Minhas experiências:
+
    * C 🔧
    * C# 👾
    * Java ♨️
@@ -19,6 +20,20 @@
    * PostgreSQL 🐘
    * SQL Server 🛢️
    * My SQL 🐬
+
+<!-- Table version:
+| Backend / Database       |  Frontend / Frameworks     |
+|:------------------------:|:--------------------------:|
+| C 🔧                    |  PHP 📜                    |
+| C# 👾                   |  HTML / CSS 🌐             |
+| Java ♨️                 |  Javascript ☕             |
+| Python 🐍               |  Typescript 🔠             |
+| Golang 💠               |  Next.js / React ⚛️        |
+| PostgreSQL 🐘           |  Bootstrap 📱               |
+| SQL Server 🛢️           |  Tailwind 🌬️                |
+| MySQL 🐬                |  MaterialUI 🧩             | 
+/-->
+
 
 
 <br>
